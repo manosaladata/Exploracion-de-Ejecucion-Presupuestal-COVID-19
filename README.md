@@ -12,5 +12,5 @@ Frente a la lucha contra el COVID-19, el gobierno y sus diferentes niveles viene
 ## EQUIPO:
 
 * Líder del proyecto: [Reynaldo Huaman](https://www.linkedin.com/in/reynaldo-huaman-38ab50113/)
-* Miembros:
+* Miembros: [Christian Ninasivincha](https://www.linkedin.com/in/ninasivincha/)
 
